@@ -2,8 +2,7 @@ body{
     background-color: black;
     color: white;
     font-size:50px;
-    display:static;
-    padding: 0;
+    display:flex;
 }
 
 
